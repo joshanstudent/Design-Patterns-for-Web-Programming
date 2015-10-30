@@ -63,3 +63,11 @@ a = calcArea(40, 60);
 
 print "with an area space of " + str(a) + "sqft"
 
+
+# Dictionary Object, I used this to update input data
+
+update = dict()
+update = {"wall":'Made update and change request from "wall" to "tiles" to be fix.'}
+print update["wall"]
+
+

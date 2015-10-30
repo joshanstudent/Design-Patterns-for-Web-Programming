@@ -11,3 +11,6 @@ import random
 guesses = 0
 first = raw_input("What is your first name? ")
 number = random.randint(1,5)
+
+# Print out results
+print first + ", I am thinging of a number between 1 and 5 "

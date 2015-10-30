@@ -50,3 +50,11 @@ additional = raw_input("Please add a task to do within your bathroom: ")
 print "Hello ", first, last, "I see that you are looking for repairs within your house in", city, state, "at", address, zip,
 print bathroom
 print "additional task to fix within your bathroom is", additional,
+
+# Math
+
+def calcArea(h, w):
+    area = h * w
+    return area
+
+a = calcArea(40, 60);

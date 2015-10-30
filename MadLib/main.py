@@ -70,4 +70,9 @@ update = dict()
 update = {"wall":'Made update and change request from "wall" to "tiles" to be fix.'}
 print update["wall"]
 
+# Math
+
+a = 2400
+print "Total for your bathroom repairs is $",eval('a * .75'), "dollars"
+
 

@@ -33,3 +33,14 @@ if guess == number:
 if guess != number:
     number = str(number)
     print "Nope. The number I was thinking about was actually " + number
+
+
+# Input data
+
+last = raw_input("Enter last name: ")
+city = raw_input("Enter your city: ")
+state = raw_input("Enter your state: ")
+address = raw_input("Enter your address: ")
+zip = raw_input("Enter your zip code: ")
+bathroom = ['floor', 'tube', 'wall'] #array
+additional = raw_input("Please add a task to do within your bathroom: ")

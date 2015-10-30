@@ -58,3 +58,8 @@ def calcArea(h, w):
     return area
 
 a = calcArea(40, 60);
+
+# Print out results
+
+print "with an area space of " + str(a) + "sqft"
+

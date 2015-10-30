@@ -44,3 +44,9 @@ address = raw_input("Enter your address: ")
 zip = raw_input("Enter your zip code: ")
 bathroom = ['floor', 'tube', 'wall'] #array
 additional = raw_input("Please add a task to do within your bathroom: ")
+
+# Print out results
+
+print "Hello ", first, last, "I see that you are looking for repairs within your house in", city, state, "at", address, zip,
+print bathroom
+print "additional task to fix within your bathroom is", additional,

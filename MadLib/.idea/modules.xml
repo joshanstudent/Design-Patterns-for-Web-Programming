@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/MadLib.iml" filepath="$PROJECT_DIR$/.idea/MadLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Madlib.iml" filepath="$PROJECT_DIR$/.idea/Madlib.iml" />
     </modules>
   </component>
 </project>

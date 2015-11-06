@@ -57,3 +57,31 @@ additional = raw_input("Please add the tasks floor, tube and walls to be done wi
 
 print "Hello ", first, last, "I see that you are looking for repairs within your house in", city, state, "at", address, zip,
 print bathroom
+
+#this code print '\n', create line spacing
+print'\n'
+
+print "This project is to be completed as a gift for your parents as a birthday gift."
+
+#this code print '\n', create line spacing
+print'\n'
+
+#functions with two parameters that states Happy Birthday to Dad and Mom by their names
+def happyBirthday(dad):
+
+    print("Happy Birthday to your Dad!")
+    print("Happy Birthday to you!")
+    print("Happy Birthday, Dear " + dad + ".")
+
+happyBirthday('Chris')
+
+#this code print '\n', create line spacing
+print'\n'
+
+def happyBirthday(mom):
+
+    print("Happy Birthday to your Mom!")
+    print("Happy Birthday to you!")
+    print("Happy Birthday, Dear " + mom + ".");
+
+happyBirthday('Michelle')

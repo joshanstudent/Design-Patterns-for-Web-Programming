@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4894ac32-b06f-44fc-a4b2-388c35a6079c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="4894ac32-b06f-44fc-a4b2-388c35a6079c" name="Default" comment="" />
     <ignored path="Madlib.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -27,8 +25,8 @@
       <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.17156863">
-              <caret line="7" column="42" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="46" />
+            <state vertical-scroll-proportion="0.41666666">
+              <caret line="17" column="14" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -389,8 +387,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17156863">
-          <caret line="7" column="42" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="46" />
+        <state vertical-scroll-proportion="0.41666666">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="19" />
           <folding />
         </state>
       </provider>

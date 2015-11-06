@@ -46,3 +46,14 @@ city = raw_input("Enter your city: ")
 state = raw_input("Enter your state: ")
 address = raw_input("Enter your address: ")
 zip = raw_input("Enter your zip code: ")
+
+#this code print '\n', create line spacing
+print'\n'
+
+bathroom = ['floor', 'tube', 'walls'] #array
+additional = raw_input("Please add the tasks floor, tube and walls to be done within your bathroom: ")
+
+# Print out results
+
+print "Hello ", first, last, "I see that you are looking for repairs within your house in", city, state, "at", address, zip,
+print bathroom

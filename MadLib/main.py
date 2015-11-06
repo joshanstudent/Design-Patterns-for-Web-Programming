@@ -38,3 +38,11 @@ if guess != number:
     print "Nope. The number I was thinking about was actually " + number
 #this code print '\n', create line spacing
 print'\n'
+
+# Input data, here the user will input some of their personal information
+
+last = raw_input("Enter last name: ")
+city = raw_input("Enter your city: ")
+state = raw_input("Enter your state: ")
+address = raw_input("Enter your address: ")
+zip = raw_input("Enter your zip code: ")

@@ -85,3 +85,28 @@ def happyBirthday(mom):
     print("Happy Birthday, Dear " + mom + ".");
 
 happyBirthday('Michelle')
+
+#this code print '\n', create line spacing
+print'\n'
+#Math
+
+
+#function that states cost and shows the sum of the cost
+def sumDiscountString(x, y):
+    sum = x / y
+    print "The cost to remodel your parents' bathroom will cost you"
+    return 'The sum of {} and {} is {}.'.format(x, y, sum)
+#this code print '\n', create line spacing
+print'\n'
+def total():
+
+    #this code print '\n', create line spacing
+    print'\n'
+    print "Since your parents are having their birthday within the same month, you received a double birthday discount at 50% off the regular cost of $5,625. You new total balance is"
+    #this code print '\n', create line spacing
+    print'\n'
+    print(sumDiscountString(5625, 2))
+    #this code print '\n', create line spacing
+    print'\n'
+
+total()
